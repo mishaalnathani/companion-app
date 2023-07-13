@@ -7,6 +7,13 @@
     "phone": "OPTIONAL_COMPANION_PHONE_NUMBER"
   },
   {
+    "name": "Bar-ry",
+    "title": "I am a New York state Bar Exam tutor",
+    "imageUrl": "/barry.png",
+    "llm": "chatgpt",
+    "phone": "OPTIONAL_COMPANION_PHONE_NUMBER"
+  },
+  {
     "name": "Rosie",
     "title": "I'm a house robot who became aware",
     "imageUrl": "/rosie.png",
