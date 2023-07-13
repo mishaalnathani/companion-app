@@ -28,7 +28,7 @@ export default function Navbar() {
                 sizes="100vw"
                 className="block h-8 w-auto lg:hidden rounded-lg"
                 src="https://avatars.githubusercontent.com/u/745163?s=200&v=4"
-                alt="a16z"
+                alt="mn"
               />
               <Image
                 width={0}
@@ -56,6 +56,7 @@ export default function Navbar() {
                     {item.name}
                   </a>
                 ))}
+                {/* 
                 <div className="px-3 py-2 text-gray-300">
                   <iframe
                     src="https://ghbtns.com/github-btn.html?user=a16z-infra&repo=companion-app&type=star&count=true"
@@ -66,6 +67,7 @@ export default function Navbar() {
                     title="GitHub"
                   ></iframe>
                 </div>
+                */} 
               </div>
             </div>
           </div>
